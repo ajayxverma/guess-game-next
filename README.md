@@ -2,7 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This is a Guess Game Next.js App.
 
-![image](https://github.com/ajayxverma/guess-game-next/assets/37044392/e2843fcc-803c-41c8-b39a-77e6952b706b)
+![image](https://github.com/ajayxverma/guess-game-next/assets/37044392/e4461bd4-8fd3-418f-9abe-66dd4e10b9ca)
+
 
 
 
